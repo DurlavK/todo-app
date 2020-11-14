@@ -1,11 +1,13 @@
-#todo-app
+# todo-app
 
 A todo app with persistent data.
 
-##used- 
+## used- 
 
-html sass js
+ - html 
+ - sass 
+ - js
 
-##source-
+## source-
 
 freecodecamp
